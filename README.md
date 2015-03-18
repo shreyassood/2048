@@ -17,7 +17,7 @@ https://play.google.com/store/apps/details?id=in.net.shreyas.game2048
 
 ## Donate
 If you like my work and would like to donate to me, you could do so [here][don].
-[here]: https://play.google.com/store/apps/details?id=com.shreyas.donate2
+[don]: https://play.google.com/store/apps/details?id=com.shreyas.donate2
 
 ## License
 
