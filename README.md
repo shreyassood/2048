@@ -13,6 +13,7 @@ https://play.google.com/store/apps/details?id=in.net.shreyas.game2048
 * Slider Preference (https://github.com/jayschwa/AndroidSliderPreference)
 * Google Play Services Library
 * Google Support Library
+* BaseGameUtils (https://github.com/playgameservices/android-basic-samples/tree/master/BasicSamples/libraries/BaseGameUtils)
 
 ## Donate
 If you like my work and would like to donate to me, you could do so [here][don].
