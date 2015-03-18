@@ -22,5 +22,5 @@ If you like my work and would like to donate to me, you could do so [here][don].
 ## License
 
 This library is licensed under the [MIT License][mit]. A copy of the license is provided in [LICENSE.txt][copy]:
-[copy]: https://raw.github.com/shreyassood/master/LICENSE.txt
+[copy]: https://raw.githubusercontent.com/shreyassood/2048/master/LICENSE.txt
 [mit]: http://opensource.org/licenses/MIT "Open Source Initiative - The MIT License"
