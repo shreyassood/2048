@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="themeentries">
+        <item>Holo (Predefinito)</item>
+        <item>Scuro</item>
+        <item>Classico</item>
+    </string-array>
+    <string-array name="themevalues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>      
+</resources>

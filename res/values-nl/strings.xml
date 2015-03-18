@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="app_name">2048</string>
+   <string name="tut">Hoe spelen?</string>
+   <string name="more">Meer</string>
+   <string name="don">Doneer</string>
+   <string name="set">Instellingen</string>
+   <string name="pref_imm">Overweldigende modus</string>
+   <string name="pref_theme">Thema</string>
+   <string name="pref_imm_summ">Zet volledig scherm aan</string>
+   <string name="action_settings">Instellingen</string>
+   <string name="hello_world">Hallo wereld!</string>
+   <string name="title_activity_play">Spelen</string>
+   <string name="default_score">0</string>
+   <string name="title_activity_new_game_p">NieuwSpelP</string>
+   <string name="start_new">Start\na een nieuw spel?</string>
+   <string name="discard">Dit zal je huidige\ngame verwijderen!</string>
+   <string name="title_activity_game_over">GameOver</string>
+   <string name="gameover">Game over!</string>
+   <string name="app_id">1075501366987</string>
+   <string name="achievement_almost_there">CgkIy_2Bx6YfEAIQCA</string>
+   <string name="achievement_winner">CgkIy_2Bx6YfEAIQBg</string>
+   <string name="achievement_success">CgkIy_2Bx6YfEAIQBw</string>
+   <string name="achievement_way_to_go">CgkIy_2Bx6YfEAIQAw</string>
+   <string name="achievement_road_runner">CgkIy_2Bx6YfEAIQBA</string>
+   <string name="leaderboard_high_scores">CgkIy_2Bx6YfEAIQAQ</string>
+   <string name="leaderboard_largest_tile">CgkIy_2Bx6YfEAIQAg</string>
+   <string name="title_activity_more">Meer</string>
+   <string name="link"><a href="http://shreyas.net.in/">Shreyas Sood</a></string>
+   <string name="email"><a href="mailto:shreyassood@gmail.com">Shreyas Sood</a></string>
+   <string name="title_activity_tutorial">Tutorial</string>
+   <string name="tutorial">Hoe spelen?</string>
+   <string name="t1">Beweeg je vinger omhoog, omlaag of opzij om alle tegeltjes te laten bewegen.</string>
+   <string name="t2">Na het bewegen worden twee gelijke tegels bij elkaar opgeteld.</string>
+   <string name="t3">Je doel is 2048 behalen!</string>
+   <string name="t4">Log in bij Google Play Games om toegang te krijgen tot achievements en leaderbords</string>
+   <string name="bol">Veel succes!</string>
+   <string name="title_activity_settings">Settings</string>
+
+</resources>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2048</string>
+    <string name="tut">Jak hrát</string><!-- How to play -->
+    <string name="more">Něco o hře</string><!-- More -->
+    <string name="don">Podpořit</string><!-- Donate -->
+    <string name="set">Nastavení</string><!-- Settings -->
+    <string name="pref_imm">Pohlcující režim</string><!-- Immersive mode -->
+    <string name="pref_themebutton">Rychlá změna vzhledu</string><!-- Theme quick switch -->
+    <string name="pref_themebutton_summ">Přidá do hry tlačítko pro rychlé přepínání mezi vzhledy</string>
+    <!-- Adds a button for quickly switching between themes -->
+    <string name="pref_theme">Téma</string><!-- Theme -->
+    <string name="pref_imm_summ">Povolit celoobrazovkový režim</string><!-- Enable fullscreen mode -->
+    <string name="action_settings">Nastavení</string><!-- Settings -->
+    <string name="hello_world">Hello world!</string><!-- Hello world! -->
+    <string name="title_activity_play">Play</string><!-- Play-->
+    <string name="default_score">0</string><!-- 0 -->
+    <string name="title_activity_new_game_p">NewGameP</string><!-- Do not translate! -->
+    <string name="start_new">Začít novou hru?</string><!-- Start a new game -->
+    <string name="discard">Tím přijdete o vaši\nsoučasnou hru!</string><!-- This will discard your current game! -->
+    <string name="title_activity_game_over">GameOver</string><!-- Do not translate -->
+    <string name="gameover">Dohráli jste!</string><!-- Game over -->
+    <string name="app_id">1075501366987</string>
+    <string name="achievement_almost_there">CgkIy_2Bx6YfEAIQCA</string>
+    <string name="achievement_winner">CgkIy_2Bx6YfEAIQBg</string>
+    <string name="achievement_success">CgkIy_2Bx6YfEAIQBw</string>
+    <string name="achievement_way_to_go">CgkIy_2Bx6YfEAIQAw</string>
+    <string name="achievement_road_runner">CgkIy_2Bx6YfEAIQBA</string>
+    <string name="leaderboard_high_scores">CgkIy_2Bx6YfEAIQAQ</string>
+    <string name="leaderboard_largest_tile">CgkIy_2Bx6YfEAIQAg</string>
+    <string name="title_activity_more">Něco o hře</string><!-- More -->
+    <string name="link"><a href="http://shreyas.net.in/">Shreyas Sood</a></string><!-- Do not translate -->
+    <string name="email"><a href="mailto:shreyassood@gmail.com">Shreyas Sood</a></string><!--  -->
+    <string name="title_activity_tutorial">Návod</string><!-- Tutorial -->
+    <string name="tutorial">Jak hrát?</string><!-- How to play? -->
+    <string name="t1">Posouvejte prstem nahoru, dolů, doleva nebo doprava abyste tím samým směrem přesunuli všechny dlaždice.</string>
+    <!-- Swipe up, down left or right to move all tiles in that direction. -->
+    <string name="t2">Když se dvě, stejně velké dlaždice sloučí, získáte jednu s dvojnásobnou velikostí.</string>
+    <!-- On touching, the same tiles add and merge to form a larger tile. -->
+    <string name="t3">Vaším cílem je získat dlaždici s hodnotou 2048!</string>
+    <!-- Your aim is to form the 2048 tile! -->
+    <string name="t4">Přihlašte se do Google Play Games pro přístup k žebříčkům a výsledkům vašich přátel.</string>
+    <!-- Sign into Google Play Games from the main screen to access Achievements and Leaderboards. -->
+    <string name="bol">Hodně štěstí!</string><!-- Best of luck -->
+    <string name="title_activity_settings">Nastavení</string><!-- Settings -->
+    <string name="score">Skóre</string><!-- Score -->
+    <string name="title_activity_main">MainActivity</string>
+<string name="slider_title">Citlivost posouvání</string><!-- Swipe sensitivity -->
+<string-array name="slider_summaries">
+    <!-- You can define as many summaries as you'd like -->
+    <!-- The active summary will reflect the preference's current value -->
+    <item>Nízká</item> <!-- 0.00 to 0.25 --><!-- Low -->
+    <item>Střední</item>   <!-- 0.25 to 0.50 --><!-- Medium -->
+    <item>Vysoká</item>     <!-- 0.50 to 0.75 --><!-- High -->
+    <item>Velmi vysoká</item>  <!-- 0.75 to 1.00 --><!-- Very high -->
+</string-array>
+<item name="slider_default" format="float" type="string">0.7</item>
+<string name="slider_message"></string>
+
+</resources>

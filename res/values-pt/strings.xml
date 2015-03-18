@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2048</string>
+    <string name="tut">Como Jogar</string>
+    <string name="more">Mais</string>
+    <string name="don">Doar</string>
+    <string name="set">Configurações</string>
+    <string name="pref_imm">Modo Imersivo</string>
+    <string name="pref_theme">Tema</string>
+    <string name="pref_imm_summ">Ativar modo tela cheia</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hello_world">Olá mundo!</string>
+    <string name="title_activity_play">Jogar</string>
+    <string name="default_score">0</string>
+    <string name="title_activity_new_game_p">NewGameP</string>
+    <string name="start_new">Começar\num novo Jogo?</string>
+    <string name="discard">Isso irá descartar sua\njogada atual!</string>
+    <string name="title_activity_game_over">GameOver</string>
+    <string name="gameover">Fim de Jogo!</string>
+    <string name="app_id">1075501366987</string>
+    <string name="achievement_almost_there">CgkIy_2Bx6YfEAIQCA</string>
+    <string name="achievement_winner">CgkIy_2Bx6YfEAIQBg</string>
+    <string name="achievement_success">CgkIy_2Bx6YfEAIQBw</string>
+    <string name="achievement_way_to_go">CgkIy_2Bx6YfEAIQAw</string>
+    <string name="achievement_road_runner">CgkIy_2Bx6YfEAIQBA</string>
+    <string name="leaderboard_high_scores">CgkIy_2Bx6YfEAIQAQ</string>
+    <string name="leaderboard_largest_tile">CgkIy_2Bx6YfEAIQAg</string>
+    <string name="title_activity_more">Mais</string>
+    <string name="link"><a href="http://shreyas.net.in/">Shreyas Sood</a></string>
+    <string name="email"><a href="mailto:shreyassood@gmail.com">Shreyas Sood</a></string>
+    <string name="title_activity_tutorial">Tutorial</string>
+    <string name="tutorial">Como jogar?</string>
+    <string name="t1">Deslize para cima, baixo, esquerda ou direita para mover os blocos nessa direção.</string>
+    <string name="t2">Ao se tocarem, os mesmos se fundem para formar um bloco maior.</string>
+    <string name="t3">Seu objetivo é formar o bloco 2048!</string>
+    <string name="t4">Entre no Google Play Games a partir da tela principal para acessar conquistas e placares.</string>
+    <string name="bol">Boa sorte!</string>
+    <string name="title_activity_settings">Configurações</string>
+
+</resources>
+
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFF</color>
+    <color name="blue">#2081e4</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="grey">#e5e5e5</color>
+    <color name="dark_grey">#4d4d4d</color>
+    <color name="theme_dark">@color/dark_grey</color>
+    <color name="transparent_back">#E6FFFFFF</color>
+    <color name="bartrans">#99000000</color>
+    <color name="text_white">#f9f6f2</color>
+    <color name="text_black">#776e65</color>
+    <color name="text_brown">#d6cdc4</color>
+    <color name="classic">#faf8ef</color>
+
+</resources>

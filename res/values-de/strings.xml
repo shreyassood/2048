@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2048</string>
+    <string name="tut">Wie wird gespielt?</string>
+    <string name="more">Mehr…</string>
+    <string name="don">Spenden</string>
+    <string name="set">Einstellungen</string>
+    <string name="pref_imm">Vollbildmodus</string>
+  <string name="pref_themebutton">Schneller Themenwechsel</string>
+    <string name="pref_themebutton_summ">Fügt einen Knopf zum Wechseln der Themen während des Spiels ein</string>
+    <string name="pref_theme">Thema</string>
+    <string name="pref_imm_summ">Vollbildmodus aktivieren oder deaktivieren</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="hello_world">Hallo Welt!</string>
+    <string name="title_activity_play">Spielen</string>
+    <string name="default_score">0</string>
+    <string name="title_activity_new_game_p">NewGameP</string>
+    <string name="start_new">Willst du wirklich \nein neues Spiel starten?</string>
+    <string name="discard">Das wird deinen \naktuellen Spielstand löschen!</string>
+    <string name="title_activity_game_over">GameOver</string>
+    <string name="gameover">Game Over!</string>
+    <string name="app_id">1075501366987</string>
+    <string name="achievement_almost_there">CgkIy_2Bx6YfEAIQCA</string>
+    <string name="achievement_winner">CgkIy_2Bx6YfEAIQBg</string>
+    <string name="achievement_success">CgkIy_2Bx6YfEAIQBw</string>
+    <string name="achievement_way_to_go">CgkIy_2Bx6YfEAIQAw</string>
+    <string name="achievement_road_runner">CgkIy_2Bx6YfEAIQBA</string>
+    <string name="leaderboard_high_scores">CgkIy_2Bx6YfEAIQAQ</string>
+    <string name="leaderboard_largest_tile">CgkIy_2Bx6YfEAIQAg</string>
+    <string name="title_activity_more">Mehr</string>
+    <string name="link"><a href="http://shreyas.net.in/">Shreyas Sood</a></string>
+    <string name="email"><a href="mailto:shreyassood@gmail.com">Shreyas Sood</a></string>
+    <string name="title_activity_tutorial">Tutorial</string>
+    <string name="tutorial">Wie wird gespielt?</string>
+    <string name="t1">Wische nach oben, unten, links oder rechts, um die Blöcke in die jeweilige Richtung zu schieben.</string>
+    <string name="t2">Wenn gleiche Blöcke sich berühren, werden diese zu einem größeren Block.</string>
+    <string name="t3">Dein Ziel ist es, einen 2048 Block zu bilden!</string>
+    <string name="t4">Melde dich bei Google Play Games über den Startbildschirm an, um auf Errungenschaften und Bestenlisten zuzugreifen</string>
+    <string name="bol">Viel Glück!</string>
+    <string name="title_activity_settings">Einstellungen</string>
+<string name="slider_title">Sensitivität des Wischens</string>
+<string-array name="slider_summaries">
+    <!-- You can define as many summaries as you'd like -->
+    <!-- The active summary will reflect the preference's current value -->
+    <item>Träge</item> <!-- 0.00 to 0.25 -->
+    <item>Medium</item>   <!-- 0.25 to 0.50 -->
+    <item>Hoch</item>     <!-- 0.50 to 0.75 -->
+    <item>Sehr hoch</item>  <!-- 0.75 to 1.00 -->
+</string-array>
+
+</resources>
+

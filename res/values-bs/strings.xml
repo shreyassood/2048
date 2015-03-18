@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2048</string>
+    <string name="tut">Kako igrati</string>
+    <string name="more">Više</string>
+    <string name="don">Doniraj</string>
+    <string name="set">Postavke</string>
+    <string name="pref_imm">Immersive Način</string>
+    <string name="pref_theme">Tema</string>
+    <string name="pref_imm_summ">Prikaži na punom ekranu</string>
+    <string name="action_settings">Postavke</string>
+    <string name="hello_world">Zdravo svijete!</string>
+    <string name="title_activity_play">Igraj</string>
+    <string name="default_score">0</string>
+    <string name="title_activity_new_game_p">NewGameP</string>
+    <string name="start_new">Započni\nnovu igru?</string>
+    <string name="discard">To će zaustaviti vašu \ntrenutnu igru!</string>
+    <string name="title_activity_game_over">GameOver</string>
+    <string name="gameover">Game Over!</string>
+    <string name="app_id">1075501366987</string>
+    <string name="achievement_almost_there">CgkIy_2Bx6YfEAIQCA</string>
+    <string name="achievement_winner">CgkIy_2Bx6YfEAIQBg</string>
+    <string name="achievement_success">CgkIy_2Bx6YfEAIQBw</string>
+    <string name="achievement_way_to_go">CgkIy_2Bx6YfEAIQAw</string>
+    <string name="achievement_road_runner">CgkIy_2Bx6YfEAIQBA</string>
+    <string name="leaderboard_high_scores">CgkIy_2Bx6YfEAIQAQ</string>
+    <string name="leaderboard_largest_tile">CgkIy_2Bx6YfEAIQAg</string>
+    <string name="title_activity_more">Više</string>
+    <string name="link"><a href="http://shreyas.net.in/">Shreyas Sood</a></string>
+    <string name="email"><a href="mailto:shreyassood@gmail.com">Shreyas Sood</a></string>
+    <string name="title_activity_tutorial">Tutorial</string>
+    <string name="tutorial">Kako igrati?</string>
+    <string name="t1">Kliznite gore, dolje, lijevo ili desno da pomjerite sve pločice u tom smjeru.</string>
+    <string name="t2">Pri dodiru, iste pločice se spajaju i sabiraju te formiraju veću pločicu.</string>
+    <string name="t3">Cilj je da formirate pločicu sa brojem 2048!</string>
+    <string name="t4">Prijavite se na Google Play Games sa glavnog ekrana da pristupite postignućima i ljestvicama.</string>
+    <string name="bol">Sretno!</string>
+    <string name="title_activity_settings">Postavke</string>
+
+</resources>
+
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="pref_imm"
+        android:title="@string/pref_imm"
+        android:summary="@string/pref_imm_summ"
+                android:onClick="Prem"
+        android:defaultValue="true" />
+        <ListPreference
+        android:key="pref_theme"
+        android:title="@string/pref_theme"
+        android:dialogTitle="@string/pref_theme"
+        android:entries="@array/themeentries"
+        android:entryValues="@array/themevalues"
+        android:onClick="Prem"
+        android:defaultValue="1" />
+        <CheckBoxPreference
+        android:key="pref_themebutton"
+        android:title="@string/pref_themebutton"
+        android:summary="@string/pref_themebutton_summ"
+        android:onClick="Prem"
+        android:defaultValue="false" />
+        <net.jayschwa.android.preference.SliderPreference
+    android:key="pref_sensitivity"
+    android:title="@string/slider_title"
+    android:summary="@array/slider_summaries"
+    android:defaultValue="@string/slider_default"
+    android:dialogMessage="@string/slider_message" />
+</PreferenceScreen>

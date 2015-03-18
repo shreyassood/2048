@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2048</string>
+    <string name="tut">怎麼玩</string>
+    <string name="more">更多</string>
+    <string name="don">捐款</string>
+    <string name="set">設定</string>
+    <string name="pref_imm">沉浸模式</string>
+    <string name="pref_themebutton">主題快速換</string>
+    <string name="pref_themebutton_summ">加入一個能快速切換主題的按鍵</string>
+    <string name="pref_theme">主題</string>
+    <string name="pref_imm_summ">全螢幕模式</string>
+    <string name="action_settings">設定</string>
+    <string name="hello_world">哈囉!</string>
+    <string name="title_activity_play">開始遊戲</string>
+    <string name="default_score">0</string>
+    <string name="title_activity_new_game_p">新遊戲</string>
+    <string name="start_new">確定開始一個新遊戲?</string>
+    <string name="discard">這個動作不會儲存你現在的遊戲記錄喔!</string>
+    <string name="title_activity_game_over">遊戲結束</string>
+    <string name="gameover">遊戲結束!</string>
+    <string name="app_id">1075501366987</string>
+    <string name="achievement_almost_there">CgkIy_2Bx6YfEAIQCA</string>
+    <string name="achievement_winner">CgkIy_2Bx6YfEAIQBg</string>
+    <string name="achievement_success">CgkIy_2Bx6YfEAIQBw</string>
+    <string name="achievement_way_to_go">CgkIy_2Bx6YfEAIQAw</string>
+    <string name="achievement_road_runner">CgkIy_2Bx6YfEAIQBA</string>
+    <string name="leaderboard_high_scores">CgkIy_2Bx6YfEAIQAQ</string>
+    <string name="leaderboard_largest_tile">CgkIy_2Bx6YfEAIQAg</string>
+    <string name="title_activity_more">更多</string>
+    <string name="link"><a href="http://shreyas.net.in/">製作人 Shreyas Sood</a></string>
+    <string name="email"><a href="mailto:shreyassood@gmail.com">製作人 Shreyas Sood</a></string>
+    <string name="title_activity_tutorial">教學模式</string>
+    <string name="tutorial">怎麼玩?</string>
+    <string name="t1">向上, 下, 左, 右滑動來移動所有磚塊的方向</string>
+    <string name="t2">當兩磚塊相觸時, 他們上的數字會相加成為一個新的磚塊</string>
+    <string name="t3">你的目標是要形成 2048 磚!</string>
+    <string name="t4">登錄到 Google Play 來獲得遊戲成就查看排行榜。</string>
+    <string name="bol">加油!</string>
+    <string name="title_activity_settings">設定</string>
+    <string name="score">分數</string>
+    <string name="title_activity_main">主要活動</string>
+<string name="slider_title">滑動靈敏度</string>
+<string-array name="slider_summaries">
+    <!-- You can define as many summaries as you'd like -->
+    <!-- The active summary will reflect the preference's current value -->
+    <item>還可以</item> <!-- 0.00 to 0.25 -->
+    <item>恩, 不錯!</item>   <!-- 0.25 to 0.50 -->
+    <item>讚喔!</item>     <!-- 0.50 to 0.75 -->
+    <item>哇也太讚</item>  <!-- 0.75 to 1.00 -->
+</string-array>
+<item name="slider_default" format="float" type="string">0.7</item>
+<string name="slider_message"></string>
+
+</resources>

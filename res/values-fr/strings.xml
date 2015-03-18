@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2048</string>
+    <string name="tut">Comment jouer</string>
+    <string name="more">Plus</string>
+    <string name="don">Payer moi un café</string>
+    <string name="set">Réglages</string>
+    <string name="pref_imm">Mode immersif</string>
+    <string name="pref_theme">Thème</string>
+    <string name="pref_imm_summ">Activer le mode plein écran</string>
+    <string name="action_settings">Réglages</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_play">Jouer</string>
+    <string name="default_score">0</string>
+    <string name="title_activity_new_game_p">Nouvelle partieP</string>
+    <string name="start_new">Commencer nouvelle partie?</string>
+    <string name="discard">Ceci va effacer votre partie actuelle!</string>
+    <string name="title_activity_game_over">C\'est fini</string>
+    <string name="gameover">C\'est fini!</string>
+    <string name="app_id">1075501366987</string>
+    <string name="achievement_almost_there">CgkIy_2Bx6YfEAIQCA</string>
+    <string name="achievement_winner">CgkIy_2Bx6YfEAIQBg</string>
+    <string name="achievement_success">CgkIy_2Bx6YfEAIQBw</string>
+    <string name="achievement_way_to_go">CgkIy_2Bx6YfEAIQAw</string>
+    <string name="achievement_road_runner">CgkIy_2Bx6YfEAIQBA</string>
+    <string name="leaderboard_high_scores">CgkIy_2Bx6YfEAIQAQ</string>
+    <string name="leaderboard_largest_tile">CgkIy_2Bx6YfEAIQAg</string>
+    <string name="title_activity_more">Plus</string>
+    <string name="link"><a href="http://shreyas.net.in/">Shreyas Sood</a></string>
+    <string name="email"><a href="mailto:shreyassood@gmail.com">Shreyas Sood</a></string>
+    <string name="title_activity_tutorial">Tutoriel</string>
+    <string name="tutorial">Comment jouer?</string>
+    <string name="t1">Glisser vers le haut, le bas, la gauche ou la droite pour bouger les tuiles dans cette direction.</string>
+    <string name="t2">Lorsqu\'elle se touche, les tuiles de même numéro s\'additionne et en forme une de valeur double.</string>
+    <string name="t3">Le but est de former la tuiles 2048!</string>
+    <string name="t4">Connectez vous a Google Play Jeux de la page principal pour accéder aux classement et aux réussites.</string>
+    <string name="bol">Bonne chance!</string>
+    <string name="title_activity_settings">Réglages</string>
+
+</resources>
+
+

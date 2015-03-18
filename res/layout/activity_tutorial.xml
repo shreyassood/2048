@@ -1,0 +1,105 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:fadingEdgeLength="80dp"
+    android:fadeScrollbars="true"
+android:requiresFadingEdge="vertical"
+    android:layout_height="fill_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <in.net.shreyas.game2048.AutoResizeTextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-thin"
+        android:textSize="60sp"
+        android:padding="10dp"
+        android:lines="1"
+        android:textColor="@color/dark_grey"
+        android:text="@string/tutorial"
+        />
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:textSize="20sp"
+        android:padding="15dp"
+        android:textColor="@color/dark_grey"
+        android:text="@string/t1"
+        />
+    <in.net.shreyas.game2048.GIFView
+        android:layout_height="400px" 
+        android:layout_width="400px"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"/>
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:textSize="20sp"
+        android:padding="15dp"
+        android:textColor="@color/dark_grey"
+        android:text="@string/t2"
+        />
+    <ImageView 
+        android:layout_height="wrap_content" 
+        android:layout_width="220dp"
+        android:maxHeight="656px"
+        android:maxWidth="154px"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/add"/>
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:textSize="20sp"
+        android:padding="15dp"
+        android:textColor="@color/dark_grey"
+        android:text="@string/t3"
+        />
+    <ImageView 
+        android:layout_height="wrap_content" 
+        android:layout_width="70dp"
+        android:maxHeight="164px"
+        android:maxWidth="164px"
+        android:adjustViewBounds="true"
+        android:src="@drawable/max"/>
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:textSize="20sp"
+        android:padding="15dp"
+        android:textColor="@color/dark_grey"
+        android:text="@string/t4"
+        />
+     <ImageView 
+        android:layout_height="wrap_content" 
+        android:layout_width="70dp"
+        android:maxHeight="512px"
+        android:maxWidth="382px"
+        android:adjustViewBounds="true"
+        android:src="@drawable/games_controller"/>
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:textSize="40sp"
+        android:padding="20dp"
+        android:textColor="@color/dark_grey"
+        android:text="@string/bol"
+        />
+    
+    <ImageButton android:src="@drawable/button_yes"
+                            android:background="@null"
+            android:scaleType="fitCenter" 
+            android:layout_width="90dp"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="center"
+            android:layout_height="90dp" 
+            android:onClick="close" />
+
+</LinearLayout>
+</ScrollView>

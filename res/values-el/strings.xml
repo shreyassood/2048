@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2048</string>
+    <string name="tut">Πώς παίζεται</string>
+    <string name="more">Περισότερα</string>
+    <string name="don">Δωρεά</string>
+    <string name="set">Ρυθμίσεις</string>
+    <string name="pref_imm">Immersive Mode</string>
+    <string name="pref_theme">Θέμα</string>
+    <string name="pref_imm_summ">Ενεργοποίηση πλήρους οθόνης</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="hello_world">Γειά σου κόσμε!</string>
+    <string name="title_activity_play">Έναρξη</string>
+    <string name="default_score">0</string>
+    <string name="title_activity_new_game_p">Νέο Παιχνίδι</string>
+    <string name="start_new">Εκκίνηση\nνέου παιχνιδίου;</string>
+    <string name="discard">Το τρέχον παιχνίδι\nθα απορριφθεί!</string>
+    <string name="title_activity_game_over">Τέλος παιχνιδιού</string>
+    <string name="gameover">Τέλος παιχνιδιού!</string>
+    <string name="app_id">1075501366987</string>
+    <string name="achievement_almost_there">CgkIy_2Bx6YfEAIQCA</string>
+    <string name="achievement_winner">CgkIy_2Bx6YfEAIQBg</string>
+    <string name="achievement_success">CgkIy_2Bx6YfEAIQBw</string>
+    <string name="achievement_way_to_go">CgkIy_2Bx6YfEAIQAw</string>
+    <string name="achievement_road_runner">CgkIy_2Bx6YfEAIQBA</string>
+    <string name="leaderboard_high_scores">CgkIy_2Bx6YfEAIQAQ</string>
+    <string name="leaderboard_largest_tile">CgkIy_2Bx6YfEAIQAg</string>
+    <string name="title_activity_more">Περισσότερα</string>
+    <string name="link"><a href="http://shreyas.net.in/">Shreyas Sood</a></string>
+    <string name="email"><a href="mailto:shreyassood@gmail.com">Shreyas Sood</a></string>
+    <string name="title_activity_tutorial">Οδηγός</string>
+    <string name="tutorial">Πώς παίζεται;</string>
+    <string name="t1">Σύρετε πάνω, κάτω, αριστερά ή δεξιά για να μετακινήσετε όλα τα πλακίδια στην ίδια κατεύθυνση.</string>
+    <string name="t2">Όταν έρχονται σε επαφή πλακίδια με τους ίδιους αριθμούς, δημιουργείται ένα νέο πλακίδιο με το άθροισμα των δύο προηγούμενων.</string>
+    <string name="t3">Ο στόχος σας είναι να δημιουργήσετε πλακίδιο με αριθμό 2048!</string>
+    <string name="t4">Συνδεθείτε με το Google Play Games από την αρχική οθόνη για να έχετε πρόσβαση στα Επιτεύγματα και τους Βαθμολογικούς Πίνακες.</string>
+    <string name="bol">Καλή τύχη!</string>
+    <string name="title_activity_settings">Ρυθμίσεις</string>
+    <string name="score">Βαθμολογία</string>
+
+</resources>

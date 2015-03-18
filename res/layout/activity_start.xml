@@ -1,0 +1,102 @@
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+   android:background="@color/blue"
+   android:fillViewport="true"
+       android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+        android:fadingEdgeLength="40dp"
+    android:fadeScrollbars="true"
+android:requiresFadingEdge="vertical"
+    android:layout_height="fill_parent">
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".Start" >
+
+    <in.net.shreyas.game2048.AutoResizeTextView
+        android:id="@+id/textView1"
+        android:layout_weight="3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:lines="1"
+        android:singleLine="true"
+        android:textSize="130sp"
+        android:text="@string/app_name"
+        android:textColor="@color/white"
+        android:fontFamily="sans-serif-thin" 
+         />
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_weight="2"
+	    android:orientation="vertical">
+	<ImageButton
+	    android:id="@+id/play"
+	    android:onClick="open_play"
+	    android:layout_width="100dp"
+	    android:layout_height="100dp"
+	    android:layout_gravity="center"
+	    android:background="@null"
+	    android:scaleType="fitCenter"
+	    android:src="@drawable/button_play"
+	    android:layout_marginTop="10dp"
+        android:layout_marginBottom="0dp" />
+
+	<ImageButton android:src="@drawable/button_lead"
+	    android:background="@null"
+	    	    android:id="@+id/leaderboards"
+            android:scaleType="fitCenter" 
+            android:layout_width="100dp"
+            android:layout_gravity="center"
+            android:layout_height="100dp"
+            android:visibility="gone"
+            android:layout_marginTop="10dp"/>
+	<ImageButton android:src="@drawable/button_ac"
+	    android:background="@null"
+	    	    android:id="@+id/ac"
+            android:scaleType="fitCenter" 
+            android:layout_width="100dp"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            android:layout_height="100dp"
+            android:layout_marginTop="10dp"/>
+		<com.google.android.gms.common.SignInButton
+    android:id="@+id/sign_in_button"
+    android:layout_gravity="center"
+    android:padding="20dp"
+    android:visibility="gone"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+</LinearLayout>
+<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+				<com.google.android.gms.plus.PlusOneButton
+  xmlns:plus="http://schemas.android.com/apk/lib/com.google.android.gms.plus"
+  android:id="@+id/plus_button"
+  android:layout_gravity="left|bottom"
+  android:layout_width="wrap_content"
+  android:layout_margin="8dp" 
+  android:layout_height="wrap_content"
+  plus:size="standard"
+  android:layout_weight="1"
+  plus:annotation="none" />
+	<ImageButton android:src="@drawable/overflow"
+	    android:background="@null"
+            android:scaleType="fitCenter" 
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:padding="8dp" 
+            android:layout_gravity="right|bottom"
+            android:onClick="more"
+            />
+
+</LinearLayout>
+</LinearLayout>
+</ScrollView>

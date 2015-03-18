@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- I see that some item are not present here. I translate them too:
+	
+	High Score -> "Record" o "Miglior Punteggio" (However "Score" is used in italian too. So "High Score" or "Top Score" is correct too.
+	Dark -> Scuro
+	Classic -> Classico
+	Holo -> Holo
+	
+	-->
+
+
+    <string name="app_name">2048</string>
+    <string name="tut">Come si gioca</string> <!-- "Istruzioni" -->
+    <string name="more">Info</string>
+    <string name="don">Donazione</string>
+    <string name="set">Impostazioni</string>
+    <string name="pref_imm">Modalità Coinvolgente</string> <!-- Some italian apps dont translate it and left “immersive mode” -->
+    <string name="pref_theme">Tema</string>
+    <string name="pref_imm_summ">Abilita Schermo Intero</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="hello_world">Ciao mondo!</string> <!-- But "Hello World!" is always good -->
+    <string name="title_activity_play">Gioca</string>
+    <string name="default_score">0</string>
+    <string name="title_activity_new_game_p">Nuova partitaP</string>
+    <string name="start_new">Avvia\na una nuova partita?</string>
+    <string name="discard">Perderai il risultato\ndella partita in corso!</string>
+    <string name="title_activity_game_over">Partita terminata</string>  <!-- However "Game Over" is used in italian too -->
+    <string name="gameover">Partita terminata!</string> <!-- However "Game Over" is used in italian too -->
+    <string name="app_id">1075501366987</string>
+    <string name="achievement_almost_there">CgkIy_2Bx6YfEAIQCA</string>
+    <string name="achievement_winner">CgkIy_2Bx6YfEAIQBg</string>
+    <string name="achievement_success">CgkIy_2Bx6YfEAIQBw</string>
+    <string name="achievement_way_to_go">CgkIy_2Bx6YfEAIQAw</string>
+    <string name="achievement_road_runner">CgkIy_2Bx6YfEAIQBA</string>
+    <string name="leaderboard_high_scores">CgkIy_2Bx6YfEAIQAQ</string>
+    <string name="leaderboard_largest_tile">CgkIy_2Bx6YfEAIQAg</string>
+    <string name="title_activity_more">Info</string>
+    <string name="link"><a href="http://shreyas.net.in/">Shreyas Sood</a></string>
+    <string name="email"><a href="mailto:shreyassood@gmail.com">Shreyas Sood</a></string>
+    <string name="title_activity_tutorial">Tutorial</string>
+    <string name="tutorial">Come si gioca?</string><!-- or "Istruzioni" without question mark -->
+    <string name="t1">Trascina il dito su, giù, sinistra o destra per muovere tutte le piastrelle in quella direzione.</string>
+    <string name="t2">Nello spostamento, le piastrelle uguali verranno unite generando una piastrella con il valore sommato.</string>
+    <string name="t3">Il tuo obiettivo è raggiungere 2048!</string>
+    <string name="t4">Accedi in Google Play Games dalla finestra principale per visualizzare Classifiche e Obiettivi.</string>
+    <string name="bol">Buon divertimento!</string>
+    <string name="title_activity_settings">Impostazioni</string>
+    <string name="score">Punteggio</string>
+
+</resources>
